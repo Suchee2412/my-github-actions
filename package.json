@@ -1,0 +1,29 @@
+{
+  "name": "my-github-actions",
+  "version": "1.0.1",
+  "description": "this is to create package and publish to github",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suchee2412/my-github-actions.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "keywords": [
+    "my",
+    "git"
+  ],
+  "author": "suchendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suchee2412/my-github-actions/issues"
+  },
+  "homepage": "https://github.com/Suchee2412/my-github-actions#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
