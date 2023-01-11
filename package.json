@@ -11,7 +11,7 @@
     "url": "git+https://github.com/Suchee2412/my-github-actions.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/my-github-actions"
   },
   "keywords": [
     "my",
