@@ -1,6 +1,6 @@
 {
-  "name": "my-github-actions",
-  "version": "1.0.1",
+  "name": "@suchee2412/my-github-actions",
+  "version": "1.0.0",
   "description": "this is to create package and publish to github",
   "main": "index.js",
   "scripts": {
